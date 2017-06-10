@@ -1,0 +1,15 @@
+a.brand-logo {
+    padding-left: 15px;
+}
+
+.accent {
+    background: #9CCC65 !important;
+}
+
+.accent-text {
+    color: #9CCC65 !important;
+}
+
+body {
+    background: #ddd;
+}
